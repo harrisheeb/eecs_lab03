@@ -1,0 +1,44 @@
+h1
+{
+    color: white;
+}
+
+p
+{
+    background-color: rgba(100, 100, 100, 0.4);
+    color: white;
+    font-family: arial;
+    font-size: 15pt;
+}
+p.kanye
+{
+    color: lightblue;
+    background-color: rgba(100, 100, 100, 0.4);
+}
+ul
+{
+    background-color: rgba(100, 100, 100, 0.4);
+    color: white;
+    font-family: arial;
+    font-size: 22pt;
+}
+
+body
+{
+    background-image: url(https://www.tokkoro.com/picsup/3037641-www-css-it-screen-code-website.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h2
+{
+    background-color: rgba(100, 100, 100, 0.4);
+    color: white;
+}
+
+h2:hover
+{
+    background-color: rgba(140, 140, 140, 0.4);
+    color: rgba(230, 230, 230, 0.4);
+}
